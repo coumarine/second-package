@@ -1,4 +1,4 @@
-package fortest;
+package secondcheck.fortest;
 
 public class testSecondPackage {
     public static void secondDisplay(String param){
